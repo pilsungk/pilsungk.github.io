@@ -14,8 +14,7 @@ quantum volume <br/>
 
 
 참고:
-1. Benchmarking quantum systems https://www.youtube.com/watch?v=-7L5o-mzLqU
-2. arstechnica https://arstechnica.com/science/2017/05/quantum-volume-one-number-to-benchmark-a-quantum-computer/
+1. Benchmarking quantum systems <https://www.youtube.com/watch?v=-7L5o-mzLqU>
+2. arstechnica <https://arstechnica.com/science/2017/05/quantum-volume-one-number-to-benchmark-a-quantum-computer/>
 
-Adding images?
-http://blog.davidebbo.com/2014/11/using-issues-for-github-pages-screenshots.html
+Adding images? <http://blog.davidebbo.com/2014/11/using-issues-for-github-pages-screenshots.html>
