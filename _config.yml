@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Let's see what I can do with this blog"
 title_separator          : "-"
 name                     : "Pilsung Kang"
 description              : "An amazing website."
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pilsung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "HPC, QC, ML"
   location         : "Somewhere"
   email            :
   uri              :
