@@ -1,8 +1,8 @@
 ---
 title: "첫째 post"
-date: 2018-6-20 08:26:28 -0400
-categories: jekyll update
-published : false
+date: 2018-06-21 02:11:00
+categories: jekyll blog
+published : true
 layout : post
 ---
 포스팅을 비공개로 해 보자
