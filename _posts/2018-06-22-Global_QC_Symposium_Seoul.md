@@ -22,6 +22,6 @@ layout: post
 ## 장준연 (KIST)
 - KIST 2~3년 연구사업 진행 중. 올해 1단계 3차년도 끝
 
-## 정연욱 (KRISS)
-- [양자정보통신 중장기 기술개발 사업 예비타당성조사 결과](http://www.kistep.re.kr/getFileDown.jsp?fileIdx=9142&contentIdx=12011&tbIdx=BRD_BOARD)
+## 정연욱 (KRISS, 한국표준과학연구원)
+- [양자정보통신 중장기 기술개발 사업 예비타당성조사 결과(KISTEP, 한국과학기술기획평가원)](http://www.kistep.re.kr/getFileDown.jsp?fileIdx=9142&contentIdx=12011&tbIdx=BRD_BOARD)
 
