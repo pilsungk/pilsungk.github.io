@@ -4,6 +4,8 @@ category: qc
 layout: post
 ---
 
+![발표자 소개](https://photos.app.goo.gl/kg9uCTBCahhaS66FA)
+
 ## 김한영 Issac Kim (스탠포드)
 - 오류 보정 - Solovay-Kitaev algorithm
 - Threshold theorem: th는 높을수록 좋음
