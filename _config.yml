@@ -269,3 +269,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# fix for a new post not showing up immediately
+future: true
