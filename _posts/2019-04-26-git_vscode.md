@@ -2,7 +2,7 @@
 ---
 title: "오랫만에.."
 date: 2019-04-26 16:30:00
-categories: jekyll blog
+categories: git vscode 
 published : true
 layout : post
 ---
