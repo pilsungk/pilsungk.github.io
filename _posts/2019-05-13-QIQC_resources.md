@@ -9,7 +9,7 @@ layout : post
 # Courses
 - [Stanford CS269Q](https://cs269q.stanford.edu): Quantum Computer Programming, Spring 2019, Dan Boneh
 - [CMU 15-859BB](https://www.cs.cmu.edu/~odonnell/quantum18/): Quantum Computation and Quantum Information, Fall 2018 (Youtube videos!)
-- [U Toronto, Quantum Computing: Foundations to Frontier](http://www.henryyuen.net/classes/fall2018/): Fall 2018, Good lecture notes
+- [U Toronto](http://www.henryyuen.net/classes/fall2018/): Quantum Computing: Foundations to Frontier, Fall 2018, Good lecture notes
 
 # Quantum Computing Conferences
 - QIP
